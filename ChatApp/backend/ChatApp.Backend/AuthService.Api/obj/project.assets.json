@@ -452,11 +452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vadimmatok/Desktop/ChatApp/backend/ChatApp.Backend/AuthService.Api/AuthService.Api.csproj",
+      "projectUniqueName": "/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Api/AuthService.Api.csproj",
       "projectName": "AuthService.Api",
-      "projectPath": "/Users/vadimmatok/Desktop/ChatApp/backend/ChatApp.Backend/AuthService.Api/AuthService.Api.csproj",
+      "projectPath": "/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Api/AuthService.Api.csproj",
       "packagesPath": "/Users/vadimmatok/.nuget/packages/",
-      "outputPath": "/Users/vadimmatok/Desktop/ChatApp/backend/ChatApp.Backend/AuthService.Api/obj/",
+      "outputPath": "/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vadimmatok/.nuget/NuGet/NuGet.Config"
