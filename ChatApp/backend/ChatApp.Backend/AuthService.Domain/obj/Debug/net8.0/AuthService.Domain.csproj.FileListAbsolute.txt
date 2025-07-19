@@ -1,0 +1,13 @@
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Domain/bin/Debug/net8.0/AuthService.Domain.deps.json
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Domain/bin/Debug/net8.0/AuthService.Domain.dll
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Domain/bin/Debug/net8.0/AuthService.Domain.pdb
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.csproj.AssemblyReference.cache
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.AssemblyInfoInputs.cache
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.AssemblyInfo.cs
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.csproj.CoreCompileInputs.cache
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.sourcelink.json
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.dll
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Domain/obj/Debug/net8.0/refint/AuthService.Domain.dll
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.pdb
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Domain/obj/Debug/net8.0/ref/AuthService.Domain.dll

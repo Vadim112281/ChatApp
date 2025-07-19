@@ -1,0 +1,16 @@
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/bin/Debug/net8.0/AuthService.Infrastructure.deps.json
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/bin/Debug/net8.0/AuthService.Infrastructure.dll
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/bin/Debug/net8.0/AuthService.Infrastructure.pdb
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/bin/Debug/net8.0/AuthService.Domain.dll
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/bin/Debug/net8.0/AuthService.Domain.pdb
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/obj/Debug/net8.0/AuthService.Infrastructure.csproj.AssemblyReference.cache
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/obj/Debug/net8.0/AuthService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/obj/Debug/net8.0/AuthService.Infrastructure.AssemblyInfoInputs.cache
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/obj/Debug/net8.0/AuthService.Infrastructure.AssemblyInfo.cs
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/obj/Debug/net8.0/AuthService.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/obj/Debug/net8.0/AuthService.Infrastructure.sourcelink.json
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/obj/Debug/net8.0/AuthServ.03063B79.Up2Date
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/obj/Debug/net8.0/AuthService.Infrastructure.dll
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/obj/Debug/net8.0/refint/AuthService.Infrastructure.dll
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/obj/Debug/net8.0/AuthService.Infrastructure.pdb
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/obj/Debug/net8.0/ref/AuthService.Infrastructure.dll
