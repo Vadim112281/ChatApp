@@ -26,6 +26,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Application/AuthService.Application.csproj": {
+                "projectPath": "/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Application/AuthService.Application.csproj"
+              },
               "/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/AuthService.Infrastructure.csproj": {
                 "projectPath": "/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/AuthService.Infrastructure.csproj"
               }
@@ -48,6 +51,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.18, )"
@@ -86,6 +93,98 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Application/AuthService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Application/AuthService.Application.csproj",
+        "projectName": "AuthService.Application",
+        "projectPath": "/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Application/AuthService.Application.csproj",
+        "packagesPath": "/Users/vadimmatok/.nuget/packages/",
+        "outputPath": "/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vadimmatok/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/AuthService.Infrastructure.csproj": {
+                "projectPath": "/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/AuthService.Infrastructure.csproj"
+              },
+              "/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/ChatApp.Shared/ChatApp.Shared.csproj": {
+                "projectPath": "/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/ChatApp.Shared/ChatApp.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.18, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.13.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.13.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -222,6 +321,65 @@
               "version": "[8.0.11, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/ChatApp.Shared/ChatApp.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/ChatApp.Shared/ChatApp.Shared.csproj",
+        "projectName": "ChatApp.Shared",
+        "projectPath": "/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/ChatApp.Shared/ChatApp.Shared.csproj",
+        "packagesPath": "/Users/vadimmatok/.nuget/packages/",
+        "outputPath": "/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/ChatApp.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vadimmatok/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",

@@ -14,3 +14,5 @@
 /Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/obj/Debug/net8.0/refint/AuthService.Infrastructure.dll
 /Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/obj/Debug/net8.0/AuthService.Infrastructure.pdb
 /Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/obj/Debug/net8.0/ref/AuthService.Infrastructure.dll
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/bin/Debug/net8.0/AuthService.Infrastructure.runtimeconfig.json
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/AuthService.Infrastructure/obj/Debug/net8.0/AuthService.Infrastructure.genruntimeconfig.cache

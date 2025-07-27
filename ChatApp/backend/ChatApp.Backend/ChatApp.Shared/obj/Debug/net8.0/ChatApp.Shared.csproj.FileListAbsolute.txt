@@ -1,0 +1,12 @@
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/ChatApp.Shared/obj/Debug/net8.0/ChatApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/ChatApp.Shared/obj/Debug/net8.0/ChatApp.Shared.AssemblyInfoInputs.cache
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/ChatApp.Shared/obj/Debug/net8.0/ChatApp.Shared.AssemblyInfo.cs
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/ChatApp.Shared/obj/Debug/net8.0/ChatApp.Shared.csproj.CoreCompileInputs.cache
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/ChatApp.Shared/obj/Debug/net8.0/ChatApp.Shared.sourcelink.json
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/ChatApp.Shared/bin/Debug/net8.0/ChatApp.Shared.deps.json
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/ChatApp.Shared/bin/Debug/net8.0/ChatApp.Shared.dll
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/ChatApp.Shared/bin/Debug/net8.0/ChatApp.Shared.pdb
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/ChatApp.Shared/obj/Debug/net8.0/ChatApp.Shared.dll
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/ChatApp.Shared/obj/Debug/net8.0/refint/ChatApp.Shared.dll
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/ChatApp.Shared/obj/Debug/net8.0/ChatApp.Shared.pdb
+/Users/vadimmatok/Desktop/ChatAppGit/ChatApp/backend/ChatApp.Backend/ChatApp.Shared/obj/Debug/net8.0/ref/ChatApp.Shared.dll
